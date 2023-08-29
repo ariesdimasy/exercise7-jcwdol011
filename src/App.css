@@ -1,0 +1,20 @@
+#root {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav { 
+   margin-bottom: 20px;
+}
+
+nav a { 
+  margin-left:20px;
+ 
+}
+
+
+.read-the-docs {
+  color: #888;
+}

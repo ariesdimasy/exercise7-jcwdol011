@@ -1,0 +1,36 @@
+.box { 
+    border:1px solid darkorange;
+    width: 80%;
+    height:220px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.time { 
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.buttons { 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.buttons button { 
+    place-items: center;
+}
+
+.start { 
+    background-color: green;
+}
+
+.end {
+    background-color: red;
+}
+
+.reset { 
+    background-color: gold;
+}
